@@ -1,1 +1,7 @@
-
+1. git init 
+2. git pull "clone code of repositry"
+3. git branch -m main
+4. git add "file name"
+5. git commit -m "l6"
+6. git remote add origin "clone code of repositry"
+7. git push -u origin main 
